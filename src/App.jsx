@@ -4,9 +4,10 @@ import Footer from './components/Footer';
 const App = () => {
   return (
     <>
-      {/* <Hero />
-      <BookNow /> */}
-    
+      <div className="flex items-center justify-center">
+        <Hero />
+        <BookNow />
+      </div>
       <Footer/>
     </>
   );

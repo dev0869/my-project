@@ -7,7 +7,7 @@ const Header = () => {
       <div className="flex items-center gap-4 md:gap-10 ">
         <img
           src={logo}
-          className="w-[80px] h-[80px]"
+          className="w-[60px]"
           alt="logo"
           style={{ }}
         />
@@ -16,10 +16,11 @@ const Header = () => {
         </p>
       </div>
       <div className="flex gap-12">
-        <p className="font-bold text-xl">Spares </p>
-        <p className="font-bold text-xl">Blog </p>
-        <p className="font-bold text-xl">More </p>
+        <p className="navlink">Spares </p>
+        <p className="navlink">Blog </p>
+        <p className="navlink">More </p>
       </div>
+      
     </div>
   );
 };
