@@ -1,12 +1,14 @@
 import Hero from './components/Hero';
 import BookNow from './components/cards/bookNow';
-
+import Header from './components/Header';
 const App = () => {
   return (
-    <div className="flex items-center justify-center">
-      <Hero />
-      <BookNow />
-    </div>
+    <>
+      <div className="flex items-center justify-center">
+        <Hero />
+        <BookNow />
+      </div>
+    </>
   );
 }
 

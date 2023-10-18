@@ -11,3 +11,12 @@
 .almuni{
 font-family: 'Alumni Sans Inline One', cursive !important;
 }
+.navlink{
+  color: #FFF;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 18.4px; /* 102.222% */
+letter-spacing: 0.169px;
+}
