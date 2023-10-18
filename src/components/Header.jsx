@@ -1,6 +1,4 @@
-import React from "react";
 import logo from "../assets/images/logo.png";
-import BookNow from "./cards/bookNow";
 const Header = () => {
   return (
     <div className="w-full flex justify-between items-center pt-4 px-4">
@@ -11,7 +9,7 @@ const Header = () => {
           alt="logo"
           style={{ }}
         />
-        <p className="font-[400] font-[italic] text-4xl text-gray almuni">
+        <p className="font-[400] font-[italic] text-[32px] text-gray almuni">
           CAR SERVICE
         </p>
       </div>
