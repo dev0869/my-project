@@ -1,6 +1,6 @@
-import Hero from './components/Hero';
-import BookNow from './components/cards/bookNow';
-import Header from './components/Header';
+import Hero from "./components/Hero";
+import BookNow from "./components/cards/bookNow";
+import Services from "./components/homepage/services";
 const App = () => {
   return (
     <>
@@ -8,8 +8,9 @@ const App = () => {
         <Hero />
         <BookNow />
       </div>
+      <Services />
     </>
   );
-}
+};
 
-export default App
+export default App;

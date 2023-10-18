@@ -1,0 +1,44 @@
+.rat{
+    color: #FFF;
+font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 0.113px;
+}
+.ratp{
+    color: #FFF;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 23.84px; /* 170.286% */
+letter-spacing: 0.09px;
+}
+.experince{
+    color: #FFF;
+font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 0.113px;
+}
+.sub-ex{
+    color: #FFF;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 18.4px; /* 102.222% */
+letter-spacing: 0.169px;
+}
+.herop{
+    color: #FFF;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 30.84px; /* 220.286% */
+letter-spacing: 0.09px;
+}
